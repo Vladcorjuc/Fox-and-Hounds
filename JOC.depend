@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1547657861 source:e:\foxandhounds\joc\joc\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"game3.h"
+	"game1.h"
+	"game4.h"
+	"game2.h"
+	<windows.h>
+
+1547722966 e:\foxandhounds\joc\joc\game3.h
+	"meniuFunctions.h"
+	"gamebasis.h"
+	"highscore.h"
+
+1547723377 e:\foxandhounds\joc\joc\meniufunctions.h
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<winbgim.h>
+	<stdlib.h>
+	<cstring>
+	"startGame.h"
+	"draw.h"
+	"highscore.h"
+
+1545997058 e:\foxandhounds\joc\joc\startgame.h
+	<iostream>
+	"meniuFunctions.h"
+
+1547722639 e:\foxandhounds\joc\joc\draw.h
+
+1547722852 e:\foxandhounds\joc\joc\game1.h
+	"meniuFunctions.h"
+	"gamebasis.h"
+
+1547651872 e:\foxandhounds\joc\joc\gamebasis.h
+
+1547723045 e:\foxandhounds\joc\joc\game4.h
+	"meniuFunctions.h"
+	"gamebasis.h"
+
+1547722677 e:\foxandhounds\joc\joc\highscore.h
+	"meniuFunctions.h"
+	<fstream>
+	<string.h>
+
+1547722767 e:\foxandhounds\joc\joc\game2.h
+	"gamebasis.h"
+	"draw.h"
+
